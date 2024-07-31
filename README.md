@@ -1,40 +1,4 @@
-# project(website)Meta.li
-project/
-│
-├── my_flask_app/
-│   ├── __init__.py            # Application factory function
-│   ├── config.py              # Configuration settings
-│   ├── models.py              # Database models
-│   ├── routes.py             # Route definitions and view functions
-│   └── database.py            # Database setup
-│
-├── static/                   
-│   ├── css                    # CSS files
-│   └── img                    # Image files
-│
-├── templates/                 
-│   ├── about.html             # About page template
-│   ├── abs.html               # ABS page template
-│   ├── aluminum.html          # Aluminum page template
-│   ├── contacts.html          # Contacts page template
-│   ├── how-it-works.html      # How it works page template
-│   ├── index.html             # Home page template
-│   ├── login.html             # Login page template
-│   ├── mild-steel.html        # Mild steel page template
-│   ├── nylon.html             # Nylon page template
-│   ├── partner.html           # Partner page template
-│   ├── pom.html               # POM page template
-│   ├── signin.html            # Sign up page template
-│   ├── stainless-steel.html   # Stainless steel page template
-│   └── team.html              # Team page template
-│
-├── .env                      # Environment variables
-├── .gitignore                # Git ignore file
-├── README.md                 # This file
-├── requirements.txt          # Project dependencies
-└── run.py                    # Entry point to run the application
-
-About Meta.li
+@About Meta.li
 Precision Engineering for the Future
 Welcome to Meta.li, where cutting-edge technology meets expert craftsmanship. We specialize in CNC industrial manufacturing, a pivotal technology that enables precise and efficient production of complex parts. Our commitment to quality and accuracy ensures that we deliver exceptional results across a wide range of industries, including aviation, automotive, and electronics.
 
