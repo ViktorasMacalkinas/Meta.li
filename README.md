@@ -64,7 +64,7 @@ Sign Up: Registration page for new users to create an account, with secure sign-
 ReCAPTCHA Integration
 Security: Enhanced security features with reCAPTCHA to protect against bots and ensure that interactions on the site are from genuine users.
 
-How to Activate and Run the Flask Application
+# How to Activate and Run the Flask Application
 Prerequisites
 Ensure Python is Installed: Make sure you have Python 3.7 or higher installed on your system. You can check this by running:
 
