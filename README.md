@@ -1,4 +1,6 @@
-#About Meta.li
+# About Meta.li
+
+
 Precision Engineering for the Future
 Welcome to Meta.li, where cutting-edge technology meets expert craftsmanship. We specialize in CNC industrial manufacturing, a pivotal technology that enables precise and efficient production of complex parts. Our commitment to quality and accuracy ensures that we deliver exceptional results across a wide range of industries, including aviation, automotive, and electronics.
 
